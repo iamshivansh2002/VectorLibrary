@@ -1,4 +1,4 @@
-//author : Divyam Makhaik
+//author : Shivansh Bhardwaj
 
 #ifndef Vector
 #define Vector
